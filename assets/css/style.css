@@ -80,6 +80,7 @@ header {
   display: flex;
   align-items: center;
   position: relative;
+  background: #777777; /* old broswers */
   background: linear-gradient(to bottom,  #777777 0%,#575555 50%,#777777 100%);
 }
 
@@ -97,18 +98,20 @@ header {
   font-size: 1.3rem;
   font-weight: bold;
   align-items: center;
+  background: #777777; /* old broswers */
   background: linear-gradient(to bottom,  #777777 0%,#575555 50%,#777777 100%);
 }
 
 .nav__list input {
   width: 80%;
   margin: 0 auto;
+  background: #777777; /* old broswers */
   background: linear-gradient(to bottom,  #777777 0%,#575555 50%,#777777 100%);
   border: 1px solid #777777;
   height: 2.2rem;
   border-radius: 5px;
   padding-left: 3rem;
-  color: white;
+  color: white
 }
 
 .search {
