@@ -77,3 +77,35 @@ header {
   padding: 1px
 }
 
+/* footer */
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 1.2rem; 
+  width: 80%;
+  margin: 2rem auto;
+  word-spacing: 1px;
+}
+
+.footer p {
+  line-height: 1.2;
+  color: #6E6E6E;
+}
+
+.footer a:link,
+.footer a:visited {
+  color: #0088CC;
+  text-decoration: none;
+  transition: all .2s;
+}
+
+.footer a:hover,
+.footer a:active {
+  color: #0088CC;
+  text-decoration: underline;
+}
+
+.link--right {
+  padding: 0 1rem;
+  border-right: 1px solid gray;
+}
