@@ -14,3 +14,40 @@ body {
   font-size: 1.6rem;
 }
 
+/* header */
+header {
+  width: 144rem;
+  height: 53.8rem;
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.45), 
+    rgba(0, 0, 0, 0.45)
+  ), url(https://hikeandcycle.com/wp-content/uploads/2017/07/28hikingapps-1920x1281.jpg);
+  background-size:cover;
+  text-align: center;
+  color: white;
+}
+
+.header h1 {
+  font-size: 6rem;
+  font-weight: 100;
+  margin-bottom: 2rem;
+}
+
+.header h2 {
+  font-size: 2.7rem;
+  font-weight: 300;
+  width: 50%;
+  margin: 0 auto;
+  margin-bottom: 3rem;
+  word-spacing: 2px;
+}
+
+.header a {
+  font-size: 2rem;
+  font-weight: 300;
+  width: 60%;
+  margin: 0 auto;
+  color: white;
+  text-decoration: none;
+}
+
