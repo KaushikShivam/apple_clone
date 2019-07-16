@@ -51,3 +51,29 @@ header {
   text-decoration: none;
 }
 
+/* nav */
+.nav__list {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 8rem 0 4rem 0;
+}
+
+/* .nav__list li {
+  width: 10rem;
+} */
+
+.nav__list a {
+  background-color: #0088CC;
+  color: white;
+}
+
+/* section products */
+.section__products {
+  display: flex;
+}
+
+.section__products > a {
+  padding: 1px
+}
+
