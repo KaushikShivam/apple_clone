@@ -19,9 +19,10 @@ header {
   width: 144rem;
   height: 53.8rem;
   background: linear-gradient(
-    rgba(0, 0, 0, 0.45), 
-    rgba(0, 0, 0, 0.45)
-  ), url(https://hikeandcycle.com/wp-content/uploads/2017/07/28hikingapps-1920x1281.jpg);
+    rgba(0, 0, 0, 0.3), 
+    rgba(0, 0, 0, 0.3)
+  ), url('./../img/background.jpg');
+  background-position: bottom;
   background-size:cover;
   text-align: center;
   color: white;
@@ -42,7 +43,7 @@ header {
   word-spacing: 2px;
 }
 
-.header a {
+/* .header a {
   font-size: 2.2rem;
   font-weight: 300;
   width: 60%;
@@ -52,6 +53,24 @@ header {
   display: flex;
   justify-content: center;
 }
+
+.heading__primary {
+  height: 10rem;
+  width: 20rem;
+  background: url('./../img/head.jpg');
+  background-size:contain;
+  background-repeat: no-repeat;
+} */
+
+/* .heading__secondary {
+  height: 10rem;
+  background: url('../img/heading-2.png');
+}
+
+.cta__link {
+  height: 10rem;
+  background: url('../img/cta-link.png');
+} */
 
 /* nav */
 .nav {
