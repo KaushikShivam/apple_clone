@@ -28,49 +28,34 @@ header {
   color: white;
 }
 
-.header h1 {
-  font-size: 6rem;
-  font-weight: 100;
-  margin-bottom: 2rem;
-}
-
-.header h2 {
-  font-size: 2.7rem;
-  font-weight: 300;
-  width: 50%;
-  margin: 0 auto;
-  margin-bottom: 3rem;
-  word-spacing: 2px;
-}
-
-/* .header a {
-  font-size: 2.2rem;
-  font-weight: 300;
-  width: 60%;
-  margin: 0 auto;
-  color: white;
-  text-decoration: none;
+/* hero content */
+.hero {
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
 .heading__primary {
-  height: 10rem;
-  width: 20rem;
-  background: url('./../img/head.jpg');
+  background: url('./../img/heading-1.png');
   background-size:contain;
-  background-repeat: no-repeat;
-} */
+  width: 98rem;
+  height: 10.4rem;
+} 
 
-/* .heading__secondary {
-  height: 10rem;
+ .heading__secondary {
   background: url('../img/heading-2.png');
+  width: 98rem;
+  height: 12.4rem;
+  margin-top: -1rem;
 }
 
 .cta__link {
-  height: 10rem;
   background: url('../img/cta-link.png');
-} */
+  width: 98rem;
+  height: 3.2rem;
+  margin-top: 3rem;
+}
 
 /* nav */
 .nav {
