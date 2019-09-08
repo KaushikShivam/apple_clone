@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Description
-[Design Teardown Project](https://rawcdn.githack.com/KaushikShivam/apple_clone/047b9424ce1c25b873d342e675b0a6209dbe7f74/index.html) is built to understand positioning and gradients. 
+[The apple clone](https://rawcdn.githack.com/KaushikShivam/apple_clone/047b9424ce1c25b873d342e675b0a6209dbe7f74/index.html) project is the replica of an old apple landing page. It's built to learn gradients and positioning
 [Reference link](http://archive.fo/UW4oR)
 
 
