@@ -142,6 +142,11 @@ header {
   display: flex;
 }
 
+.section__products>* {
+  width: 25%;
+  margin: 0;
+}
+
 .section__products>a {
   padding: 1px
 }
